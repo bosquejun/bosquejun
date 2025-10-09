@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a Full-Stack Developer and Blockchain Enthusiast with 8+ years of experience, primarily working with JavaScript frameworks like React.js and Node.js. My focus is on building scalable, secure applications, especially in the fintech and blockchain space. I'm passionate about leveraging new technologies and contributing to innovative projects that push boundaries. Let's build something awesome together!
+👋 Hi there! I'm a seasoned Full-Stack Developer and Blockchain Enthusiast with over 9 years of experience, primarily working with JavaScript frameworks like React.js and Node.js. My focus is on building scalable, secure applications, especially in the fintech and blockchain space. I'm passionate about leveraging new technologies and contributing to innovative projects that push boundaries. Let's build something awesome together!
 
 
 ## 🌐 Socials:
