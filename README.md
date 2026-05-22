@@ -30,5 +30,4 @@ Currently based in **Manila, PH** · Open to remote opportunities
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bosquejun&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bosquejun&theme=dark&hide_border=true&layout=compact)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=bosquejun&theme=dark&hide_border=true&include_all_commits=false&count_private=false](https://trophy.benkou.dev/?username=bosquejun&theme=onedark))
