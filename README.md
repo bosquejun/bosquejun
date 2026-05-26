@@ -9,6 +9,7 @@ Currently based in **Manila, PH** · Open to remote opportunities
 
 ## 🔭 What I'm building
 
+- **[is-pinoy.dev](https://is-pinoy.dev/)** —  a community-driven project that gives Filipino developers a free, professional-looking subdomain under *.is-pinoy.dev
 - **[Arally](https://arally.app/)** — helps teachers build, personalize, and publish teaching materials
 - **[Bantai](https://bantai.vercel.app/)** — TypeScript-first policy evaluation library for deterministic allow/deny decisions
 
