@@ -32,8 +32,5 @@ Currently based in **Manila, PH** · Open to remote opportunities
 
 ---
 
-## Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=bosquejun&theme=onedark)](https://github.com/bosquejun)
-
 
 [![Badge](https://badges.is-pinoy.dev/badge?type=certified&theme=gold)](https://is-pinoy.dev)
