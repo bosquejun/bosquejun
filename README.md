@@ -1,5 +1,7 @@
 # Hey, I'm Jun 👋
 
+[![Badge](https://badges.is-pinoy.dev/badge/jun?type=member&theme=dark)](https://jun.is-pinoy.dev)
+
 Full-Stack Engineer architecting and delivering scalable systems, from early-stage MVPs 
 to production-grade, cloud-native and AI-integrated applications.
 
